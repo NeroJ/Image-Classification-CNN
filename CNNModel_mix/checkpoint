@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/killy/Downloads/data/CNN_model"
+all_model_checkpoint_paths: "/home/killy/Downloads/data/CNN_model"
